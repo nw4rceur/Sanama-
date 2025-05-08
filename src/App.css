@@ -1,0 +1,15 @@
+.hero {
+  background-color: #007BFF;
+  color: white;
+  padding: 100px 20px;
+  text-align: center;
+}
+.carousel-section {
+  padding: 50px 20px;
+  background: #e9f0fa;
+}
+.carousel-section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0056b3;
+}
